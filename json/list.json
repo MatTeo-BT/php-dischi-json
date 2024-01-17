@@ -1,0 +1,38 @@
+[
+    {
+        "artist": "Post Malone",
+        "title": "Goodbyes",
+        "releaseYear": "xxxx",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/3/30/Post_Malone_-_Goodbyes.png"
+    },
+    {
+        "artist": "The Weekend",
+        "title": "Die for you",
+        "releaseYear": "xxxx",
+        "cover": "https://cdns-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/500x500.jpg"
+    },
+    {
+        "artist": "Liquido",
+        "title": "Narcotic",
+        "releaseYear": "xxxx",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/71/1a/22/711a2286-f28d-857d-7041-5ac87534bfc9/cover.jpg/1200x1200bf-60.jpg"
+    },
+    {
+        "artist": "Michael Jackson",
+        "title": "Thriller",
+        "releaseYear": "xxxx",
+        "cover": "https://m.media-amazon.com/images/I/51CRK0-fAbS._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "artist": "Wait for you",
+        "title": "Future, Drake",
+        "releaseYear": "xxxx",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ce2a41bac276a369b2146d6c"
+    },
+    {
+        "artist": "SwimChase Atlantic",
+        "title": "Swim",
+        "releaseYear": "xxxx",
+        "cover": "https://i1.sndcdn.com/artworks-000245604849-c3xnw2-t500x500.jpg"
+    }
+]
